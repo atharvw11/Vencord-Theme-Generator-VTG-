@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+<OutputType>WinExe</OutputType>
+<TargetFramework>net8.0-windows11.0.22631.0</TargetFramework>
+<UseWPF>true</UseWPF>
+  <PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.UI.Xaml" Version="2.8.6" />
+  </ItemGroup>
+
+
+  </Project/>
